@@ -1,16 +1,16 @@
 {
-	"name": "@gilbarbara/tsconfig",
-	"version": "0.1.1",
+	"name": "@colussi/tsconfig",
+	"version": "0.0.0",
 	"description": "Shared Typescript config",
-	"author": "Gil Barbara <gilbarbara@gmail.com>",
+	"author": "Jonatan Colussi <jonatancolussi81@gmail.com>",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/gilbarbara/tsconfig.git"
+		"url": "git+https://github.com/JonatanColussi/tsconfig.git"
 	},
 	"bugs": {
-		"url": "https://github.com/gilbarbara/tsconfig/issues"
+		"url": "https://github.com/JonatanColussi/tsconfig/issues"
 	},
-	"homepage": "https://github.com/gilbarbara/tsconfig#readme",
+	"homepage": "https://github.com/JonatanColussi/tsconfig#readme",
 	"main": "tsconfig.json",
 	"keywords": [
 		"tsconfig",
